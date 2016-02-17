@@ -114,7 +114,7 @@ disqus:
 #################################### global configure #######################################
 
 username: adsl12u
-baseurl: /StrayBirds
+baseurl: /nihonngo
 markdown: redcarpet
 safe: false
 highlighter: pygments
