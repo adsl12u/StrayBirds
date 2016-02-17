@@ -120,7 +120,7 @@ safe: false
 highlighter: pygments
 title: 僕は幸せだ
 description: いつも何度でも
-theme: kunka
+theme: slate
 disqusname: adsl12u
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
