@@ -91,8 +91,6 @@ follow:
 #Links
 customLinks:
   - item:
-    - text: 掌心
-      url: http://www.zhanxin.info
     - text: Jekyll
       url: http://jekyllrb.com
     - text: Jekyll Theme
@@ -115,15 +113,15 @@ disqus:
 
 #################################### global configure #######################################
 
-username: minixalpha
+username: adsl12u
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
-description: 人生到处知何似，应似飞鸿踏雪泥
+title: 僕は幸せだ
+description: いつも何度でも
 theme: kunka
-disqusname: minixalpha
+disqusname: adsl12u
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
 # those themes are all come from GitHub Pages Themes
